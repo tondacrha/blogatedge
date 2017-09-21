@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog @ EDGE</title>
+    <link>https://disc.tonda.me/</link>
+    <description>Recent content on Blog @ EDGE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Sep 2017 18:48:16 +0200</lastBuildDate>
+    
+	<atom:link href="https://disc.tonda.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Links</title>
+      <link>https://disc.tonda.me/posts/links.html</link>
+      <pubDate>Thu, 21 Sep 2017 18:48:16 +0200</pubDate>
+      
+      <guid>https://disc.tonda.me/posts/links.html</guid>
+      <description>Disccon presentation
+Blog@EDGE on GitHub</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://disc.tonda.me/posts/aboutme.html</link>
+      <pubDate>Thu, 21 Sep 2017 14:31:02 +0200</pubDate>
+      
+      <guid>https://disc.tonda.me/posts/aboutme.html</guid>
+      <description>@rotac
+Tonda @ GitHub</description>
+    </item>
+    
+  </channel>
+</rss>

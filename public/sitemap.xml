@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://disc.tonda.me/posts/links.html</loc>
+    <lastmod>2017-09-21T18:48:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://disc.tonda.me/posts/aboutme.html</loc>
+    <lastmod>2017-09-21T14:31:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://disc.tonda.me/</loc>
+    <lastmod>2017-09-21T18:48:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://disc.tonda.me/categories.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://disc.tonda.me/posts.html</loc>
+    <lastmod>2017-09-21T18:48:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://disc.tonda.me/tags.html</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
